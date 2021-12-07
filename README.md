@@ -1,1 +1,4 @@
-# Nft-Generating-Game
+- User registers for game
+- User plays a round of the game
+- Upon finishing the game, an NFT will be generated and given to the user, or varying Rarity
+- User is able to list the NFT in an in-game store, for sale
